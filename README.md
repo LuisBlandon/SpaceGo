@@ -6,7 +6,7 @@ This automation project is designed to test web applications using **Java**, **S
 
 ## **Technologies Used**
 
-- **Java 21**: The main programming language.
+- **Java 17**: The main programming language.
 - **Selenium**: A framework for automating web application testing.
 - **Cucumber**: A BDD framework for behavior-driven testing.
 - **JUnit**: A framework for running unit and integration tests.
